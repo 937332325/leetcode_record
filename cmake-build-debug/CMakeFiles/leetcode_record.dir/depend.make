@@ -11,11 +11,31 @@ CMakeFiles/leetcode_record.dir/jianzhi_offer_5.cpp.o: ../jianzhi_offer_5.cpp
 
 CMakeFiles/leetcode_record.dir/jianzhi_offer_9.cpp.o: ../jianzhi_offer_9.cpp
 
+CMakeFiles/leetcode_record.dir/leetcode_13.cpp.o: ../leetcode_13.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_137.cpp.o: ../leetcode_137.cpp
+
 CMakeFiles/leetcode_record.dir/leetcode_146.cpp.o: ../leetcode_146.cpp
 
 CMakeFiles/leetcode_record.dir/leetcode_15.cpp.o: ../leetcode_15.cpp
 
+CMakeFiles/leetcode_record.dir/leetcode_187.cpp.o: ../leetcode_187.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_190.cpp.o: ../leetcode_190.cpp
+
 CMakeFiles/leetcode_record.dir/leetcode_20.cpp.o: ../leetcode_20.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_201.cpp.o: ../leetcode_201.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_23.cpp.o: ../leetcode_23.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_268.cpp.o: ../leetcode_268.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_29.cpp.o: ../leetcode_29.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_318.cpp.o: ../leetcode_318.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_64.cpp.o: ../leetcode_64.cpp
 
 CMakeFiles/leetcode_record.dir/main.cpp.o: ../main.cpp
 

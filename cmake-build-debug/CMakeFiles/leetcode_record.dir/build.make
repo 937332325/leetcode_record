@@ -317,6 +317,45 @@ CMakeFiles/leetcode_record.dir/leetcode_338.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_record.dir/leetcode_338.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_338.cpp -o CMakeFiles/leetcode_record.dir/leetcode_338.cpp.s
 
+CMakeFiles/leetcode_record.dir/leetcode_371.cpp.o: CMakeFiles/leetcode_record.dir/flags.make
+CMakeFiles/leetcode_record.dir/leetcode_371.cpp.o: ../leetcode_371.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenhaibin/Desktop/clion/leetcode_record/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/leetcode_record.dir/leetcode_371.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_record.dir/leetcode_371.cpp.o -c /Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_371.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_371.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_record.dir/leetcode_371.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_371.cpp > CMakeFiles/leetcode_record.dir/leetcode_371.cpp.i
+
+CMakeFiles/leetcode_record.dir/leetcode_371.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_record.dir/leetcode_371.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_371.cpp -o CMakeFiles/leetcode_record.dir/leetcode_371.cpp.s
+
+CMakeFiles/leetcode_record.dir/leetcode_207.cpp.o: CMakeFiles/leetcode_record.dir/flags.make
+CMakeFiles/leetcode_record.dir/leetcode_207.cpp.o: ../leetcode_207.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenhaibin/Desktop/clion/leetcode_record/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/leetcode_record.dir/leetcode_207.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_record.dir/leetcode_207.cpp.o -c /Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_207.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_207.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_record.dir/leetcode_207.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_207.cpp > CMakeFiles/leetcode_record.dir/leetcode_207.cpp.i
+
+CMakeFiles/leetcode_record.dir/leetcode_207.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_record.dir/leetcode_207.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_207.cpp -o CMakeFiles/leetcode_record.dir/leetcode_207.cpp.s
+
+CMakeFiles/leetcode_record.dir/leetcode_72.cpp.o: CMakeFiles/leetcode_record.dir/flags.make
+CMakeFiles/leetcode_record.dir/leetcode_72.cpp.o: ../leetcode_72.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenhaibin/Desktop/clion/leetcode_record/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/leetcode_record.dir/leetcode_72.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_record.dir/leetcode_72.cpp.o -c /Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_72.cpp
+
+CMakeFiles/leetcode_record.dir/leetcode_72.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_record.dir/leetcode_72.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_72.cpp > CMakeFiles/leetcode_record.dir/leetcode_72.cpp.i
+
+CMakeFiles/leetcode_record.dir/leetcode_72.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_record.dir/leetcode_72.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_72.cpp -o CMakeFiles/leetcode_record.dir/leetcode_72.cpp.s
+
 # Object files for target leetcode_record
 leetcode_record_OBJECTS = \
 "CMakeFiles/leetcode_record.dir/main.cpp.o" \
@@ -338,7 +377,10 @@ leetcode_record_OBJECTS = \
 "CMakeFiles/leetcode_record.dir/leetcode_201.cpp.o" \
 "CMakeFiles/leetcode_record.dir/leetcode_268.cpp.o" \
 "CMakeFiles/leetcode_record.dir/leetcode_318.cpp.o" \
-"CMakeFiles/leetcode_record.dir/leetcode_338.cpp.o"
+"CMakeFiles/leetcode_record.dir/leetcode_338.cpp.o" \
+"CMakeFiles/leetcode_record.dir/leetcode_371.cpp.o" \
+"CMakeFiles/leetcode_record.dir/leetcode_207.cpp.o" \
+"CMakeFiles/leetcode_record.dir/leetcode_72.cpp.o"
 
 # External object files for target leetcode_record
 leetcode_record_EXTERNAL_OBJECTS =
@@ -363,9 +405,12 @@ leetcode_record: CMakeFiles/leetcode_record.dir/leetcode_201.cpp.o
 leetcode_record: CMakeFiles/leetcode_record.dir/leetcode_268.cpp.o
 leetcode_record: CMakeFiles/leetcode_record.dir/leetcode_318.cpp.o
 leetcode_record: CMakeFiles/leetcode_record.dir/leetcode_338.cpp.o
+leetcode_record: CMakeFiles/leetcode_record.dir/leetcode_371.cpp.o
+leetcode_record: CMakeFiles/leetcode_record.dir/leetcode_207.cpp.o
+leetcode_record: CMakeFiles/leetcode_record.dir/leetcode_72.cpp.o
 leetcode_record: CMakeFiles/leetcode_record.dir/build.make
 leetcode_record: CMakeFiles/leetcode_record.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chenhaibin/Desktop/clion/leetcode_record/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable leetcode_record"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chenhaibin/Desktop/clion/leetcode_record/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable leetcode_record"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode_record.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

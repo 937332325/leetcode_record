@@ -123,6 +123,33 @@ leetcode_record/fast:
 	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/build
 .PHONY : leetcode_record/fast
 
+byte_camp.o: byte_camp.cpp.o
+
+.PHONY : byte_camp.o
+
+# target to build an object file
+byte_camp.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/byte_camp.cpp.o
+.PHONY : byte_camp.cpp.o
+
+byte_camp.i: byte_camp.cpp.i
+
+.PHONY : byte_camp.i
+
+# target to preprocess a source file
+byte_camp.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/byte_camp.cpp.i
+.PHONY : byte_camp.cpp.i
+
+byte_camp.s: byte_camp.cpp.s
+
+.PHONY : byte_camp.s
+
+# target to generate assembly for a file
+byte_camp.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/byte_camp.cpp.s
+.PHONY : byte_camp.cpp.s
+
 jianzhi_offer_11.o: jianzhi_offer_11.cpp.o
 
 .PHONY : jianzhi_offer_11.o
@@ -257,6 +284,33 @@ jianzhi_offer_9.s: jianzhi_offer_9.cpp.s
 jianzhi_offer_9.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/jianzhi_offer_9.cpp.s
 .PHONY : jianzhi_offer_9.cpp.s
+
+leetcode_12.o: leetcode_12.cpp.o
+
+.PHONY : leetcode_12.o
+
+# target to build an object file
+leetcode_12.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_12.cpp.o
+.PHONY : leetcode_12.cpp.o
+
+leetcode_12.i: leetcode_12.cpp.i
+
+.PHONY : leetcode_12.i
+
+# target to preprocess a source file
+leetcode_12.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_12.cpp.i
+.PHONY : leetcode_12.cpp.i
+
+leetcode_12.s: leetcode_12.cpp.s
+
+.PHONY : leetcode_12.s
+
+# target to generate assembly for a file
+leetcode_12.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_12.cpp.s
+.PHONY : leetcode_12.cpp.s
 
 leetcode_13.o: leetcode_13.cpp.o
 
@@ -609,6 +663,33 @@ leetcode_318.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_318.cpp.s
 .PHONY : leetcode_318.cpp.s
 
+leetcode_32.o: leetcode_32.cpp.o
+
+.PHONY : leetcode_32.o
+
+# target to build an object file
+leetcode_32.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_32.cpp.o
+.PHONY : leetcode_32.cpp.o
+
+leetcode_32.i: leetcode_32.cpp.i
+
+.PHONY : leetcode_32.i
+
+# target to preprocess a source file
+leetcode_32.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_32.cpp.i
+.PHONY : leetcode_32.cpp.i
+
+leetcode_32.s: leetcode_32.cpp.s
+
+.PHONY : leetcode_32.s
+
+# target to generate assembly for a file
+leetcode_32.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_32.cpp.s
+.PHONY : leetcode_32.cpp.s
+
 leetcode_338.o: leetcode_338.cpp.o
 
 .PHONY : leetcode_338.o
@@ -662,6 +743,33 @@ leetcode_371.s: leetcode_371.cpp.s
 leetcode_371.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_371.cpp.s
 .PHONY : leetcode_371.cpp.s
+
+leetcode_39.o: leetcode_39.cpp.o
+
+.PHONY : leetcode_39.o
+
+# target to build an object file
+leetcode_39.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_39.cpp.o
+.PHONY : leetcode_39.cpp.o
+
+leetcode_39.i: leetcode_39.cpp.i
+
+.PHONY : leetcode_39.i
+
+# target to preprocess a source file
+leetcode_39.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_39.cpp.i
+.PHONY : leetcode_39.cpp.i
+
+leetcode_39.s: leetcode_39.cpp.s
+
+.PHONY : leetcode_39.s
+
+# target to generate assembly for a file
+leetcode_39.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_record.dir/build.make CMakeFiles/leetcode_record.dir/leetcode_39.cpp.s
+.PHONY : leetcode_39.cpp.s
 
 leetcode_64.o: leetcode_64.cpp.o
 
@@ -753,6 +861,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_record"
+	@echo "... byte_camp.o"
+	@echo "... byte_camp.i"
+	@echo "... byte_camp.s"
 	@echo "... jianzhi_offer_11.o"
 	@echo "... jianzhi_offer_11.i"
 	@echo "... jianzhi_offer_11.s"
@@ -768,6 +879,9 @@ help:
 	@echo "... jianzhi_offer_9.o"
 	@echo "... jianzhi_offer_9.i"
 	@echo "... jianzhi_offer_9.s"
+	@echo "... leetcode_12.o"
+	@echo "... leetcode_12.i"
+	@echo "... leetcode_12.s"
 	@echo "... leetcode_13.o"
 	@echo "... leetcode_13.i"
 	@echo "... leetcode_13.s"
@@ -807,12 +921,18 @@ help:
 	@echo "... leetcode_318.o"
 	@echo "... leetcode_318.i"
 	@echo "... leetcode_318.s"
+	@echo "... leetcode_32.o"
+	@echo "... leetcode_32.i"
+	@echo "... leetcode_32.s"
 	@echo "... leetcode_338.o"
 	@echo "... leetcode_338.i"
 	@echo "... leetcode_338.s"
 	@echo "... leetcode_371.o"
 	@echo "... leetcode_371.i"
 	@echo "... leetcode_371.s"
+	@echo "... leetcode_39.o"
+	@echo "... leetcode_39.i"
+	@echo "... leetcode_39.s"
 	@echo "... leetcode_64.o"
 	@echo "... leetcode_64.i"
 	@echo "... leetcode_64.s"

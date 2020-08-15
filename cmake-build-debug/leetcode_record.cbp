@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/byte_camp.cpp">
+			<Option target="leetcode_record"/>
+		</Unit>
 		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/jianzhi_offer_11.cpp">
 			<Option target="leetcode_record"/>
 		</Unit>
@@ -93,6 +96,9 @@
 			<Option target="leetcode_record"/>
 		</Unit>
 		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/jianzhi_offer_9.cpp">
+			<Option target="leetcode_record"/>
+		</Unit>
+		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_12.cpp">
 			<Option target="leetcode_record"/>
 		</Unit>
 		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_13.cpp">
@@ -134,10 +140,16 @@
 		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_318.cpp">
 			<Option target="leetcode_record"/>
 		</Unit>
+		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_32.cpp">
+			<Option target="leetcode_record"/>
+		</Unit>
 		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_338.cpp">
 			<Option target="leetcode_record"/>
 		</Unit>
 		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_371.cpp">
+			<Option target="leetcode_record"/>
+		</Unit>
+		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_39.cpp">
 			<Option target="leetcode_record"/>
 		</Unit>
 		<Unit filename="/Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_64.cpp">

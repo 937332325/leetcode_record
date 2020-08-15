@@ -6,8 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_207.cpp
+/Users/chenhaibin/Desktop/clion/leetcode_record/leetcode_39.cpp
 vector
+-
+stack
 -
 iostream
 -

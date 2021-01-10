@@ -10,6 +10,7 @@ push(x), pop(), empty(), top()(size>0), size();
 ### vector
 v.insert(v.end(),3);//在向量末尾追加新元素。
 v.insert(v.end(),4,1);//在尾部插入4个1
+vector<vector<int>> dp(a.size(), vector<int>(a[0].size(), 0));
 
 ### map 字典
 创建 map<int,string> personnel

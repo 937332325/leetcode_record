@@ -112,7 +112,7 @@ public:
 // 答案解法
 /*
  * 遍历字符串，如果遇到左括号，则将当前下标压入栈，如果遇到右括号，如果当前栈为空，则将下一个坐标位置记录到 start，如果栈不为空，则将
- * 栈顶元素取出，此时若栈为空，则更新结果和 i - start + 1 中的较大值，否则更新结果和 i - st.top() 中的较大值
+ * 栈顶元素取出，)取出时若栈为空，则更新结果和 i - start + 1 中的较大值，否则更新结果和 i - st.top() 中的较大值
 class Solution {
 public:
     int longestValidParentheses(string s) {
